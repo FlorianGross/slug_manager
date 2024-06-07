@@ -1,0 +1,21 @@
+{
+  "name": "slug_manager",
+  "version": "1.0.0",
+  "description": "A simple URL redirect manager built with Node.js and Express.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redirect",
+    "URL",
+    "express",
+    "docker"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
